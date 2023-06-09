@@ -1,0 +1,1682 @@
+BUSINESS
+PLAN
+Inclut l'executive summery, élements du BP
+Intermédiaire, l'équipe et les moyens, les
+aspects juridiques, le plan financier,
+l'analyse des risques, la perspective "Digital
+Responsable", le planning prévisionnel et
+Annexes.
+DC Start | World VR | ROBERT Théo DC5B
+
+Table des matières
+01 Executive Summary
+02 Genèse du Projet
+03 Analyse stratégique
+04 Étude de marché
+05 Segmentation, cible et positionnement
+06 Business Model
+07 Plan marketing et Stratégie commerciale
+08 Plan de communication
+09 Équipe et moyens
+10 Aspects juridiques
+11 Analyse des risques
+12 Plan financier
+13 Perspective Digital Responsable
+14 Planning Prévisionnel
+15 Annexes
+
+p3 - p5
+
+p6 - p8
+
+p9 - p12
+
+p13 - p19
+
+p20 - p23
+
+p24 - p25
+
+p26 - p34
+
+p35 - p41
+
+p42 - p43
+
+p44 - p45
+
+p46 - p47
+
+p48- p49
+
+p50 - p51
+
+p52 - p54
+
+p55 - p72
+
+Executive
+Summary
+
+01
+
+Executive Summary
+
+Le projet est une expérience en réalité virtuelle proposant une
+“alternative” au tourisme via des voyages virtuels accompagnés
+d’informations sur le pays visité tel que la culture, l’histoire de
+certains bâtiments, de l'architecture, les coutumes etc…
+Et la finalité des voyages est un quiz qui permettra aux heureux
+gagnants de remporter un voyage dans la ville visitée
+virtuellement, et des lots de consolations pour le reste du podium.
+Via ce projet nous souhaitons proposer plusieurs avantages, le
+premier, évident, est que nous proposons une alternative au
+tourisme pour un moindre coût tout en gardant un grand
+apport culturel. Le second point, ce même apport culturel, en
+plus de voyager l'utilisateur en apprend sur la ville qu'il visite, et
+nous ne souhaitons pas juste donner quelques anecdotes sur un
+lieu, mais fournir une vrai expérience d'apprentissage locale.
+Nous ciblons principalement les propriétaires de casques VR
+qui aiment les jeux d'aventures et qui se sont retrouvés bloqués
+par la pandémie. Et dans un second temps nous ciblons les
+personnes ayant un penchant pour la réalité virtuelle et
+souhaitant renouveler leur expérience, soit en achetant un
+casque, soit via un service externe.
+Nous savons, suite à une étude poussée, que le marché est plus
+que prêt à nous accueillir, nous verrons cela dans l'étude de
+marché.
+L'entreprise est composé de 6 employés. Un chef de projet, 2
+développeurs VR, un maquetteur, un cadreur et un
+commercial.
+
+01
+
+Executive Summary
+
+Le projet propose des expériences immersives et éducatives
+qui mettent l'accent sur la découverte culturelle et la
+sensibilisation aux enjeux environnementaux. Nous nous sommes
+imposés comme un acteur engagé du tourisme responsable et
+soucieux de l'impact social de nos activités.
+Nous avons identifié et prédit les risques stratégiques,
+opérationnels, financiers, techniques et externes associés au
+projet. Des plans d'action et des mesures préventives sont en
+place pour atténuer ces risques et assurer la pérennité de nos
+opérations.
+
+Genèse du
+Projet
+
+02
+Genèse du projet
+Le projet vit le jour la première fois en
+troisième année de bachelor pour un projet
+de groupe.
+A ce moment la, le monde s'est vu bloqué par
+la pandémie de Covid-19. Bloquant ainsi
+l'intégralité du tourisme et de l'économie en
+général.
+
+02
+Genèse du projet
+Je vise à offrir une expérience unique en proposant des voyages
+en réalité virtuelle avec des épisodes basés sur des
+destinations précises, accompagnés d'annotations et de
+mises en scène sur la culture locale, la cuisine, les mœurs,
+l'architecture et les us et coutumes. Mon objectif est de créer une
+alternative au tourisme réel en utilisant une technologie en plein
+développement, la Réalité Virtuelle.
+Le projet se positionnera comme avant-gardiste, car j'offre une
+nouvelle approche du tourisme qui n'a pas encore été
+largement adoptée. Mes concurrents pourraient inclure d'autres
+entreprises qui proposent des visites en réalité virtuelle, mais le
+concept unique de quiz pour gagner un voyage réel me démarque
+de la concurrence.
+Pour générer des revenus, comme mentionné précédemment,
+nous souhaitons vendre les visites virtuelles par format
+"d'épisodes" achetable à l'unité, en lot ou par abonnement sur
+ma plateforme. À la sortie de chaque épisode, je proposerai un
+quiz sur la ville visitée. Les acheteurs d'épisodes pourront
+participer à ce quiz et tenter de gagner un voyage réel vers la
+destination, ainsi que des lots de consolation tels que des
+réductions sur les vols aériens ou sur les hôtels.
+
+Analyse
+Stratégique
+
+03
+Analyse Stratégique
+
+Forces
+
+Utilisation interactive
+Technologie centrée sur
+l’utilisateur
+Développement exponentiel de la
+VR.
+Prix de + en + accessible
+Pouvoir récompenser l'utilisateur
+
+Opportunités
+
+Oculus devient Meta pour
+promouvoir leur vision du futur de
+la VR
+Peu de concurrents actuellement
+Les nouvelles générations aiment
+les technologies innovantes
+Constante amélioration
+technologique => diminution de ses
+limites (meilleures rapidité,
+autonomie, mémoire, résolution
+d’écran, plus de wifi)
+
+Faiblesses
+
+Scepticisme pour certains
+Coût de développement initial
+onéreux
+
+Menaces
+
+Apparition de produits de
+substitution moins chère
+Accessibilité pour les personnes
+handicapés
+
+03
+Analyse Stratégique
+Pestel
+
+Voir Le Pestel
+
+03
+Analyse Stratégique
+Au cours de ces dernières années, le marché de la réalité
+virtuelle a connu une croissante exponentielle, et les
+utilisateurs sont de plus en plus en demande d'expériences
+qualitatives.
+D'après nos recherches, le marché est prêt à accueillir World VR
+comme nouvel acteur, voici quelques courtes raisons :
+La croissance du marché : Le marché de la VR subit une
+croissance rapide, et nous constatons que les utilisateurs sont
+de plus en plus en attentes d'expériences de qualité, offrant
+une immersion totale.
+L'accessibilité à la technologie : Les Casques VR sont en
+constante baisse de prix (nous verrons dans l'étude de
+marché pourquoi), permettant ainsi à un plus grand nombre
+de personnes d'acquérir un casque.
+Besoin de diversification des Expériences en VR : Les
+utilisateurs cherchent de nouvelles expériences innovantes et
+éducatives.
+
+Étude de
+Marché
+
+04
+
+Le Marché Global : La vente de contenu en réalité
+virtuelle
+Le marché global visé par World VR est la vente de contenu en réalité virtuelle. Cette
+technologie est de plus en plus utilisée. Les casques se vendent de plus en plus, et leurs
+prix diminuent également. La vente de contenu en réalité virtuelle a pesé 1.1 milliard
+de dollars en 2020 uniquement. On estime environ 167 millions d'euros pour la
+France. De plus, la vente de casque est estimé à 1.46 millions d'exemplaire en 2023.
+De plus, le groupe Facebook est devenu Meta, et leur marque Oculus devient Meta
+Quest, et retire de la vente les autres casques de la marque pour ne proposer qu'un
+seul produit, le Meta Quest 2, casque entièrement autonome à 350€ (utilisable avec et
+sans ordinateur), permettant ainsi de baisser le ticket d'entré pour cette technologie.
+
+Le Marché Cible : Le Voyage En VR
+Le marché cible est un marché prometteur depuis quelques années, la réalité
+virtuelle permet de nombreuses choses, jeux vidéos, lecture multimédia, travail
+collaboratifs etc... Mais également le voyage, que ça soit des visites de musées, de
+festivals, de lieux connus...
+D'après une étude datant de 2017 faite par Touchstone, 74 % des consommateurs
+(USA) désirent utiliser la réalité virtuelle pour des contenus liés aux voyages.
+Il est également prouvé que l'e-tourisme génère de réelles émotions chez
+l'utilisateur, on trouve donc un réel intérêt pour cette pratique.
+On estime la valeur de ce marché en France à quelques millions d'euros au vu du
+peu de concurrents présent sur le marché français.
+
+La Distribution
+Notre distribution sera donc à l'image de notre zone de chalandise. Comme le
+produit est dématérialisé, le travail à fournir pour la distribution est énormément
+facilité. Le produit est à soumettre aux plateformes de ventes d'applications et jeux
+en réalité virtuelle comme le Meta Store, Steam, GOG etc...
+Généralement le coût de cette distribution se fait en commission sur les ventes par
+les plateformes qui hébergent et ( moyennant finance) mettent en avant le produit
+proposé.
+Sachant que la portée de ces plateformes est elle-même internationale (même si ce
+n'est pas le marché visé pour l'instant). Le produit peut connaître un succès en
+dehors de la France, il est même facilement exportable pour les autres langues.
+
+Évolution du marché
+Évolution du volume
+de recherche pour
+"Réalité virtuelle"
+
+04
+Pestel
+La Réalité Virtuelle est une technologie relativement récente. Le marché est encore
+assez neuf, et manque encore d'informations. Mais sur les dernières années 2015 à
+maintenant. Nous avons observé une démocratisation massive de cette technologie,
+et à raison !
+Le grand public a vite compris l'intérêt de cette technologie et les possibilités affiliés
+à cette dernière.
+On constate donc une utilisation de plus en plus courante de cette technologie, dans
+presque tous les domaines, que ça soit divertissement, culture, apprentissage,
+réunion, éducation, sensibilisation etc...
+Les entreprises elles-mêmes poussent de plus en plus cette technologie, le groupe
+Facebook qui devient Meta n'est pas anodin, l'objectif de Meta est de promouvoir un
+univers virtuel dans lequel nous pourrions exercer les mêmes activités que dans la
+vie réelle.
+Voir le PESTEL
+
+Porter
+Dans un marché très récent et neuf comme celui de la réalité virtuelle, il y a des
+points auxquels il faut être attentif. La méthode PORTER va, dans ce cas, nous aider à
+repérer les points à surveiller dans le temps et nécessitant un approfondissement
+afin de se démarquer.
+Les deux points les plus importants sont la "La menace des nouveaux entrants" ainsi
+que "Le pouvoir de négociation des clients". Car, dans ce marché, il s'agit de deux
+points très sensibles ayant beaucoup d'influence sur la notoriété et la crédibilité d'un
+produit en réalité virtuelle.
+Le point "La menace des nouveaux entrants" porte sur un potentiel de nouveau
+produit, plus ou moins semblable au notre par exemple, mais apportant une
+expérience plus complète, plus immersive. Notre objectif est donc de proposer
+l'expérience la plus complète possible pour éviter ce problème.
+
+Voir les 5 forces de PORTER
+
+04
+L'offre
+La Concurrence
+NATIONAL GEOGRAPHIC
+EXPLORE VR
+
+VR Expeditions 2.0
+
+Paris VR
+
+Bangkok Thailand VR /
+Nepal VR
+
+New York VR
+
+Ces concurrents proposent des expériences similaires, à savoir, la visite d'une ville /
+lieux importants et/ou connu. Parmi ces lieux on retrouve la Thaïlande ou le Nepal,
+projets de tourisme en réalité virtuelle réalisés par Jerome Boccon-Gibod,
+photographe panoramique, ce dernier propose d'autres créations sur l'App Store
+(IOS).
+On retrouve également des lieux moins accessibles dans la vraie vie, comme
+l'Antarctique ou le Machu Picchu. Et on peut également trouver des voyages dans
+des lieux culturels comme des musées ou centre d'expositions chez VR
+expéditions2.0, sachant que ce dernier est plus orienté b2b, les expériences sont
+vendu à des centres VR ou à des centres d'enseignement/écoles.
+
+L'évolution de l'offre
+Ci-joint, l'évolution des
+recherches pour le
+voyage en VR, on
+remarque une forte
+augmentation du
+volume de recherche.
+L'offre sur ce marché connaît une forte évolution depuis quelques années, il s'est créé
+de plus en plus de projets de voyage en réalité virtuelle, proposant une expérience
+plus ou moins similaires. Le site Réalité-Virtuelle.com en parlait également l'année
+dernière, avec l'arrivée de la crise sanitaire, les déplacements ont été fortement
+restreints pour la quasi totalité des pays dans le monde. Les gens étaient donc
+cloitrés chez eux, sans possibilités de sortir, ils ont donc cherchés à voyager comme
+ils pouvaient. La crise z donc fortement accentué la demande, qui est bien plus
+importante aujourd'hui qu'en 2017, lorsque les casques VR commençaient à devenir
+accessibles.
+
+04
+La Demande
+Qui sont les clients
+La cible principale est composée de propriétaires de casque de réalité virtuelle (support
+mobile, casque autonome ou casque pour ordinateur) âgés entre 20 et 35 ans et ayant
+de préférence un attrait pour l'aventure. Ses contraintes peuvent être le prix d'une
+expérience VR
+Quant à la cible secondaire elle est composée de personnes ayant un penchant pour la
+réalité virtuelle, cette cible à donc déjà eu une expérience en VR et souhaite renouveler
+cela soit en achetant un casque, soit via un service externe (centre VR etc...) Ses
+contraintes peuvent se trouver dans l'achat même du casque (lequel choisir etc..).
+
+Synthèse de l'enquête terrain
+Une expérience terrain a été réalisé via un google Form, le sondage porte bien
+évidemment sur la réalité virtuelle et la relation qu'ont les utilisateurs ( ou nonutilisateurs) avec cette technologie et les contenus proposés, ainsi que leurs envies en
+terme d'expérience concernant mon projet ( Style de déplacement, liberté d'exploration,
+orientation culturelle ...) Le formulaire à été transmits à des connaissances plus ou
+moins proches en message direct, mais également sur des Channels Discord de serveur
+sur la Réalité Virtuelle, pour un total de 140 réponses.
+
+Quelle est l’attente de vos clients ?
+Les attentes peuvent différer entre les utilisateurs mais on retrouve une constante
+universelle : l’expérience de qualité. Les projets de réalité virtuelle les mieux accueillis
+sont ceux qui proposent une expérience GLOBALE de bonne qualité. Une bonne
+expérience globale peut inclure de bon graphisme, une cohérence globale, une histoire
+de qualité etc…
+Et souvent les utilisateurs n'hésitent pas à faire un retour positif sur les boutiques en
+ligne (Steam store, oculus / meta store...).
+Ceci à été confirmé par l'étude quantitative, 77% des sondés préféreront une
+expérience complète plutôt qu'un contenu dit "plus simple d'accès".
+La catégorie "Aventure" est la deuxième préférée des sondés.
+89% seraient intéressés par l'achat d'un épisode si le premier est gratuit.
+67% ont aimé le pitch du projet
+Pour l'étude qualitative, j'ai entrevu un utilisateur régulier de réalité virtuelle rencontré
+sur ces mêmes serveur Discord, j'ai donc décidé de lui poser des questions sur ses
+attentes, ses envies et ses contraintes.
+
+04
+
+Synthèse et analyse des informations recueillies
+Adéquation Offre / Demande
+D'après l'étude qualitative, quantitative et la recherche de
+documentation et d'informations sur le marché en ligne, j'ai
+constaté une certaine demande pour les expériences de voyage
+en réalité virtuelle.
+
+Car, la réalité virtuelle est une technologie à fort potentiel et est
+de plus en plus présente chez les particuliers comme chez les
+professionnels, il y a donc de plus en plus d'utilisateurs tous les
+jours et ces derniers ont envie d'être satisfaits par une expérience
+qualitative, proposant un contenu concret et récompensant le
+joueur.
+x
+Et comme dit précédemment, la crise sanitaire actuelle à permis
+d'agrandir le nombre d'utilisateurs VR et cette dernière
+technologie permet de voyager sans se déplacer. Sachant qu'un
+casque de réalité virtuelle coûte largement moins chère qu'un
+billet d'avion et un épisode WORLD Vr encore moins.
+
+Les opportunités et risques du marché (SWOT)
+
+Voir le Swot
+
+04
+
+Les facteurs clés de la réussite
+
+Expérience complète
+
+Récompenses
+
+Cohérence Globale
+
+Vrai Apport Culturel
+
+D'après le sondage mené, l'entrevue (étude qualitative) et une étude
+sur la réussite des succès en réalité virtuelle, Cela dépend du type
+d’expérience proposé par les concurrents, mais globalement, les
+utilisateurs sont satisfaits des expériences complètes avec un contenu
+complet. On retrouve par exemple dans les plus grosses ventes VR : HL
+Alyx, beat saber, Cooking Simulator VR ou Job Simulator.
+Ces jeux sont connus et aimés car ils proposent une expérience
+cohérente et complète ainsi qu'un contenu bien fournit en quantité.
+World VR compte proposer une stratégie similaire, un projet complet
+permettant de visiter une ville et ces lieux d'intérêts, faire découvrir la
+culture locale, les coutumes, les croyances, la cuisine etc... Tout en
+proposant la possibilité de remporter un vrai voyage vers la destination
+de l'épisode pour concrétiser une visite virtuelle par une visite réelle,
+ainsi que des lots de consolation pour les personnes n'ayant pas pus
+remporter le gros lot. (réduction de voyage, hôtels, location etc...), le tout
+pour un prix estimé à 20€.
+
+Segmentation, cible
+et positionnement
+
+05
+
+Segmentation
+
+Le segment de marché pour World VR est bien évidemment le marché
+du voyage en réalité virtuelle. Mais cette dénomination ne fait pas
+vraiment sens dans le contexte du voyage au sens propre. Nous visons
+donc plutot le marché de "l'expérience immersive en VR", ce qui fait déjà
+plus de sens et est un marché bien réel et observable, comme vu dans
+l'étude de marché.
+De plus en plus de studio souhaitent proposer des expériences
+immersives dans différents lieux et différentes conditions (sous l’eau
+entouré de requins, dans l’espace ou dans la station spatiale
+internationale)
+
+05
+
+Cibles
+Cible Principale
+La cible principale est constitué des propriétaires de casques de réalité
+virtuelle âgés entre 20 et 35 ans. Cette cible à une préférence pour
+l'aventure (fiction ou réelle). Cette cible est sensible et très intéressée par
+les expériences qualitatives en VR, c'est à dire des expériences
+immersives de haute qualité.
+Nous sommes donc susceptible d'atteindre cette cible par notre concept
+de voyage virtuel, de plus, le fait de pouvoir gagner un voyage
+augmente d'autant plus l'attrait que pourrait avoir la cible pour notre
+produit car cette dernière est en quête d'aventure.
+
+Cible Secondaire
+Notre cible secondaire sont les personnes ayant un attrait pour la
+réalité virtuelle, ayant déjà eu une expérience au préalable et cherchant
+à la renouveler, soit en passant par l'achat d'un casque, soit via un
+service externe comme un Centre VR, un musée etc...
+Cette cible peut avoir comme contrainte l'achat d'un casque, car elle
+pourrait avoir des difficultés dans le fait d'en trouver un qui lui convient.
+Cette cible est également à la recherche d’expériences immersives et la
+découverte de nouvelle destinations sans quitter son domicile.
+Elle peut être attirée par notre concept grâce à la possibilité de vivre une
+expérience VR immersive sans nécessairement acheter un casque en
+premier lieu. (et procéder à un achat de casque dans un futur proche)
+
+05
+
+Positionnement
+L'objectif de World VR est de se positionner comme une expérience
+innovante et attrayante, qui se distingue des autres offres du marché.
+Pour cela nous souhaitons nous axé sur les points suivants :
+Expérience éducative et immersive : Nous souhaitons que nos
+épisodes soient divertissants certes, mais aussi instructifs. En
+offrant des informations précises et détaillées sur les villes et
+destinations visitées. Nous souhaitons enrichir l'expérience
+utilisateur et la rendre unique.
+Gamification et sollicitation : Grâce à l'intégration du quizz à la fin
+d'un voyage, ainsi que d'autres lots, nous encourageons
+l'engagement des utilisateurs et ainsi, nous les motivons à explorer
+et intéragir avec World VR.
+Accessibilité : L'accessibilité est un point très important dans le
+milieu de la réalité virtuelle. C'est pourquoi nous souhaitons rendre
+notre projet le plus accessible possible pour les possesseurs de
+casques VR, mais aussi pour les autres, via des partenariats avec des
+musées et autres centres de réalité virtuelle.
+
+05
+
+Business
+Model
+
+Plan marketing
+et stratégie
+commerciale
+
+06
+
+Stratégie Commerciale
+1. Processus de vente :
+Prospection : Utiliser les réseaux sociaux, les forums et les sites spécialisés
+pour identifier les clients potentiels dans les deux segments de marché.
+Prise de contact : Communiquer avec les prospects via des messages
+personnalisés et des publications sur les réseaux sociaux, des newsletters et des
+événements en ligne ou physiques.
+Démonstration : Offrir des séances de démonstration gratuites ou à prix réduit
+pour donner un avant-goût de vos expériences VR.
+Proposition commerciale : Proposer des offres adaptées aux besoins et aux
+attentes des clients potentiels, comme des abonnements mensuels, des packs
+d'expériences ou des promotions spéciales.
+Négociation et conversion : Répondre aux questions et aux préoccupations
+des clients potentiels, ajuster les offres si nécessaire et inciter à l'achat.
+Suivi et fidélisation : Assurer un service après-vente de qualité, solliciter les
+retours d'expérience et proposer régulièrement des nouveautés pour fidéliser
+les clients.
+2. Objectifs commerciaux réels :
+6 mois : Réaliser 2263 ventes cumulées.
+1 an : Réaliser 7017 ventes cumulées.
+3 ans : Réaliser 45631 ventes cumulées.
+3. Indicateurs clés de performance (KPI) :
+Taux de conversion des prospects en clients.
+Taux de fidélisation des clients.
+Taux de satisfaction des clients (enquêtes et témoignages).
+
+06
+
+Matrice AARRR
+Acquisition :
+Attirer l'attention des utilisateurs potentiels et les amener à découvrir votre application.
+Publicités sur les réseaux sociaux (Facebook, Instagram, Twitter)
+Collaborations avec des influenceurs du secteur de la réalité virtuelle
+Référencement naturel (SEO) pour votre site web et blog
+Campagnes d'affichage sur des sites spécialisés en réalité virtuelle et jeux
+vidéo
+KPIs :
+Trafic sur le site web et la page de l'application
+Taux de clics (CTR) des publicités
+Nombre de followers et d'interactions sur les réseaux sociaux
+Activation :
+Inciter les utilisateurs à essayer votre application et à vivre leur première expérience VR
+de tourisme.
+Offrir un premier épisode gratuit pour encourager les téléchargements
+Créer des tutoriels et des guides pour faciliter la prise en main de
+l'application
+Envoyer des notifications push ou des emails pour rappeler aux utilisateurs
+de tester l'application
+KPIs :
+Nombre de téléchargements de l'application
+Taux d'activation (pourcentage d'utilisateurs qui ont essayé l'application
+après l'avoir téléchargée)
+Rétention :
+Fidéliser les utilisateurs en les incitant à revenir régulièrement et à explorer davantage
+d'expériences VR.
+Proposer un contenu régulièrement mis à jour avec de nouvelles
+destinations et expériences
+Offrir des récompenses et des incitations pour encourager les utilisateurs à
+revenir
+S'assurer d'une expérience utilisateur de qualité (graphisme, cohérence,
+histoire)
+KPIs :
+Taux de rétention (pourcentage d'utilisateurs revenant sur l'application après
+une première utilisation)
+Fréquence d'utilisation de l'application
+
+06
+
+Matrice AARRR
+Refferal :
+Encourager les utilisateurs satisfaits à recommander votre application à leur entourage.
+Mettre en place un programme de parrainage avec des récompenses pour les
+utilisateurs qui invitent leurs amis
+Encourager les utilisateurs à partager leur expérience sur les réseaux sociaux et
+les forums
+Inciter les utilisateurs à laisser des avis et des notes sur les plateformes de
+téléchargement et les sites spécialisés
+KPIs :
+Nombre de recommandations et de parrainages
+Taux de viralité (nombre d'invitations envoyées par utilisateur actif)
+Nombre et qualité des avis et des notes
+Revenu :
+Générer des revenus à partir de l'utilisation de votre application et des achats de
+contenu supplémentaire.
+Proposer des expériences payantes pour découvrir de nouvelles destinations et
+approfondir la connaissance des pays visités * Offrir des options d'abonnement
+pour un accès illimité à l'ensemble du contenu de l'application * Vendre des
+produits dérivés liés à l'application et aux expériences VR (t-shirts, posters, etc.) *
+Mettre en place des partenariats avec des entreprises de voyage pour proposer
+des offres spéciales et des réductions
+KPIs :
+Revenu total généré
+Revenu moyen par utilisateur (ARPU)
+Taux de conversion (pourcentage d'utilisateurs passant d'un épisode gratuit à un
+achat ou un abonnement)
+
+06
+
+Produit / Service
+La politique de produit de World VR est plutôt simple, proposer
+l'expérience la plus qualitative pour du tourisme en réalité virtuelle,
+World VR a pour ambition de devenir le leader de l'expérience
+touristique en réalité virtuelle. Pour cela, World VR propose une
+expérience de haute qualité en termes de contenu.
+Chaque visite de ville doit offrir un panel culturel très large tout en
+étant immersif et ludique, notre objectif est de satisfaire nos clients et
+de les fidéliser pour qu'ils continuent d'acheter les nouveaux
+épisodes.
+Pour cela, nous mettons à disposition de nos clients un large choix de
+destinations virtuelle à travers le monde, avec des visites de
+monuments, de sites naturels, de musées, de parcs, de restaurants,
+de bars, de clubs, etc. Mais aussi la culture locale du pays / ville, avec
+l'histoire de la population, les coutumes, la gastronomie, la musique,
+les fêtes, etc.
+Nous souhaitons proposer une expérience qualitative car
+aujourd'hui, trop d'expériences en réalité virtuelles déçoivent les
+utilisateurs car elles sont souvent mal conçues et peu immersives,
+cela se traduit par des graphismes médiocres et un manque cruel
+d'interactivité et de sensations.
+
+Pour cela, nous travaillerons avec les meilleurs professionnels de
+la réalité virtuelle afin de proposer une expérience de haute qualité à
+nos clients.
+Le produit a été pensé ainsi car ce qui fait le succès d’un opus en VR,
+c’est la qualité de l’expérience globale, et ceci passe via
+l’immersion, l’interaction avec le décor, le savoir apporté ET la
+récompense potentielle apporté au joueur en fin d’épisode.
+Tous ces derniers points doivent être pensés pour proposer la
+meilleure expérience possible à l’utilisateur afin de le marquer, et
+ainsi l’incité à reprendre un épisode dans le futur car l’expérience
+l’aura peut être marqué.
+
+06
+
+Politique de Prix
+Après une étude quantitative et qualitative, nous avons observé que les prix des
+expériences en réalité virtuelles sont bien inférieurs aux jeux tripe A sur consoles ou
+ordinateurs, la moyenne de prix d'une expérience en VR est de 20 euros. D'autre part,
+de nombreux éditeurs tentent de s'imposer dans le domaine des contenus en réalité
+virtuelle, c'est pour cela qu'ils proposent des prix attractifs afin d'encourager les
+consommateurs à adopter cette technologie.
+On trouve évidemment des expériences aux prix de jeux consoles traditionnels qui
+restent cependant moins nombreuses. Mais pour une sortie par épisode, nous
+souhaitons proposer un prix similaire aux expériences dites accessibles.
+Dans le cas d'une souscription, un abonnement mensuel sera éventuellement
+proposé à un tarif attractif pour une offre donnant accès aux expériences à venir et
+passées.
+La réalité virtuelle est une nouvelle technologie qui nécessite une prise en main
+particulière.
+Nous avons donc décidé de simplifier le plus possible l'expérience en réalité
+virtuelle, en proposant aux utilisateurs une interface unique et intuitive, le prix sera
+donc justifié par une expérience globale qui se veut très qualitative.
+Nous avons estimé (pour l'instant) la réalisation d'un épisode à 10k €. Pour rembourser
+chaque création d'épisode nous devons vendre un certain nombre d'épisode, pour un
+épisode à 10 000€, il faudra vendre seulement 500 copies pour rembourser la création
+de l'épisode.
+
+06
+
+La politique de distribution
+Notre distribution sera donc à l'image de notre zone de chalandise. Comme le produit
+est dématérialisé, le travail à fournir pour la distribution est énormément facilité. Le
+produit est à soumettre aux plateformes de ventes d'applications et jeux en réalité
+virtuelle comme le Meta Store, Steam, GOG etc...
+Généralement le coût de cette distribution se fait en commission sur les ventes
+par les plateformes qui mettent en avant le produit proposé.
+Sachant que la portée de ces plateformes est elle-même internationale (même si ce
+n'est pas le marché visé pour l'instant). Le produit peut connaître un succès en dehors
+de la France, il est même facilement exportable pour les autres langues.
+C’est la stratégie adoptée par la quasi intégralité des acteurs du marché car il n’y à pas
+vraiment d'autres alternatives, le support physique n’est presque plus utilisé pour ce
+genre de produits, encore moins pour de la réalité virtuelle.
+
+06
+
+La politique de communication
+WORLD VR
+Cible 1 (cible
+principal :
+propriétaires de
+casques VR)
+
+Cible 2 ( les joueurs
+intéressés par les
+jeux d’aventure)
+
+Promesse
+
+Preuve
+
+Bénéfice
+
+Ton du message
+
+Une vraie expérience
+ludique de tourisme
+en réalité virtuelle
+avec un vrai apport
+culturel et la
+possibilité de gagner
+un voyage vers la
+destination ainsi que
+des lots de
+consolations
+
+Parce que trop peu
+d’applications en VR
+s’appliquent à
+proposer une VRAIE
+expérience complète.
+Mon projet a pour
+but d’y remédier.
+
+Pouvoir gagner un
+voyage ou un lot de
+consolation, si l’on
+vient pour la
+récompense, sinon ?
+un apport culturel
+considérable.
+
+Ton décalé mais
+restant sérieux et
+informel dans le fond
+
+« Moins cher qu’un
+billet d’avion »
+« La culture à portée
+de main »
+
+Un META Quest 2 et
+un épisode coûtent
+bien moins chère que
+n’importe quel billet
+d’avion aller-retour
+pour une grande
+destination : -400€
+
+Des économies, et
+Ton décalé mais
+toujours la possibilité restant sérieux et
+de gagner un voyage informel dans le fond
+pour la destination
+choisie + des lots de
+consolations.
++ Une fois le casque
+acheté, il peut servir
+pour tous
+les autres produits et
+services
+
+« Le tour du monde
+depuis votre
+canapé »
+« Moins cher qu’un
+billet d’avion »
+« La culture à portée
+de main »
+
+Proposer une
+expérience
+d’aventure et de
+découverte pour
+moins chère qu’un
+billet d’avion et
+qu’une réservation
+sur place (Même
+avec l’achat du
+casque) le tout avec
+un apport culturel
+conséquent et
+ludique
+
+Message résiduel
+
+L'objectif de notre communication sera, en premier lieu, de faire connaître le projet à nos 2
+cibles. Pour cela, nous souhaitons passer par différentes canaux, traditionnels certes, mais
+efficace pour toucher notre cible. Et ensuite de pousser à convertir en incitant à l'achat via
+différents moyens à mettre en place.
+1. Référencement payant : Pour atteindre notre cible principale, qui est constituée de
+personnes possédant un casque de réalité virtuelle. Nous allons utiliser des bannières
+publicitaires (display) sur des sites web de jeux vidéos et de réalité virtuelle, ainsi que
+des campagnes publicitaires sur les réseaux sociaux (Reddit, Instagram, Facebook) via
+des vidéos dynamiques de présentation du concept . Nous allons également utiliser des
+annonces vidéo sur des plateformes de vidéo en ligne pour promouvoir notre produit.
+En utilisant des bannières publicitaires sur des sites web de jeux et de réalité
+virtuelle, ainsi que des campagnes publicitaires sur les réseaux sociaux, nous pouvons
+atteindre notre cible de manière efficace. De plus, les annonces vidéo sur des plateformes de
+vidéo en ligne sont un excellent moyen de promouvoir notre produit de manière visuelle et
+interactive, ce qui attirera l'attention de notre cible.
+
+06
+
+La politique de communication
+
+2. Partenariats : Nous allons établir des partenariats avec des entreprises de réalité
+virtuelle et de jeux pour promouvoir notre produit auprès de leur communauté
+(Notamment Meta, Ex-Oculus). Nous allons également établir des partenariats avec des
+entreprises de tourisme pour promouvoir notre produit auprès de leurs clients et
+partenaire, ainsi que les offices de tourismes des villes afin de sélectionner quel sera la
+prochaine ville à visiter !
+Les partenariats avec des entreprises de réalité virtuelle et de jeux permettent de
+promouvoir notre produit auprès d'une communauté réceptive par ce type de produits, ce
+qui optimisera les possibilités de conversion. De même, les partenariats avec des
+entreprises de tourisme permettront de toucher une audience qui est déjà intéressée par
+les voyages et les découvertes culturelles, cela augmentera les chances de conversions
+pour notre produit.
+3. Marketing de contenu : Nous allons créer du contenu de qualité sur notre produit,
+comme des vidéos de démonstration, et des articles de blog pour aider les utilisateurs à
+mieux comprendre le but de notre produit. Nous allons également utiliser des influenceurs
+VR et High tech ( Romain Lanéry, Micode, ANONIMAL).
+Le marketing de contenu permet de créer une relation de confiance avec notre cible en leur
+fournissant des informations utiles sur notre produit. En utilisant des vidéos de
+démonstration, des articles de blog et des tutoriels, nous pouvons aider les utilisateurs à
+mieux comprendre les avantages de notre produit. De plus, en utilisant des influenceurs,
+nous pouvons atteindre une audience plus large et augmenter la visibilité de notre produit
+4. Événements : Nous allons organiser des événements pour promouvoir notre produit,
+comme des démonstrations en direct, des concours et des giveaways. Nous allons également
+participer à des salons et à des foires pour promouvoir notre produit auprès d'un public
+large.
+Les événements sont un excellent moyen de promouvoir notre produit de manière
+interactive et en direct. En organisant des évents, nous pouvons attirer l'attention de notre
+cible et leur donner l'occasion de découvrir notre produit en personne. Les salons et les
+foires sont également un excellent moyen de promouvoir notre produit auprès d'un public
+large et de créer une présence physique pour notre marque.
+
+Plan de
+communication
+
+07
+
+Plan de communication
+
+.
+
+Campagne à destination de la cible principale
+Rappel de la cible principale : Propriétaire d’un casque de réalité virtuelle. Aime les
+jeux vidéos en général, son genre préféré est le jeu d’aventure. La problématique est
+que le voyage s’est vu être bien moins accessible depuis la pandémie. Cette cible
+souhaite donc voyager malgré les restrictions.
+
+Persona
+
+Description de la campagne :
+Développer la notoriété de mon projet de voyages virtuels en réalité
+virtuelle et inciter les utilisateurs de casques VR à télécharger et
+essayer notre application.
+
+Objectifs :
+1. Sensibiliser la cible sur l'existence de notre application et des valeurs
+ajoutées qu'elle propose (culture, histoire, architecture, etc.).
+2. Encourager le téléchargement et l'essai de l'application, en
+proposant un premier épisode gratuit.
+3. Créer un engouement autour des quiz et des lots à gagner, incitant les
+utilisateurs à participer et à partager l'expérience avec leur entourage.
+4. Fidéliser les utilisateurs en offrant une expérience globale de qualité et
+en répondant à leurs attentes en termes d'aventure et de contenu
+culturel.
+5. Développer une communauté active et engagée autour de notre
+application, en encourageant les retours positifs et les échanges sur les
+différentes plateformes en ligne (forums, réseaux sociaux, etc.).
+
+07
+
+Plan de communication
+
+.
+
+Campagne à destination de la cible principale
+KPIs :
+1. Nombre de téléchargements de l'application par mois.
+2. Nombre d'utilisateurs actifs réguliers (par exemple, ceux qui utilisent
+l'application au moins une fois par semaine).
+3. Taux de conversion des utilisateurs ayant téléchargé le premier
+épisode gratuit en acheteurs d'épisodes supplémentaires.
+4. Taux de participation aux quiz et nombre de lots remportés.
+5. Nombre de retours positifs et de commentaires sur les plateformes
+en ligne (Steam store, Oculus / Meta store, forums, réseaux sociaux, etc.).
+6. Taux de croissance de la communauté en ligne (abonnés sur les
+réseaux sociaux, membres du groupe Discord, etc.).
+
+Leviers de communication :
+1. Réseaux sociaux :
+Ligne éditoriale : Contenu divertissant, éducatif et engageant
+axé sur la découverte de nouvelles destinations et la culture
+locale.
+Type de contenu : Partage d'histoires de voyage, d'aperçus des
+expériences VR, de témoignages d'utilisateurs, de quiz et de
+promotions.
+Rythme de publication : 3 à 4 publications par semaine sur
+les différentes plateformes (Facebook, Instagram, Twitter).
+2. Partenariats avec des marques de casques VR :
+Pertinence : Collaborer avec des marques de casques VR pour
+toucher notre cible principale et les inciter à essayer notre
+application via des packs offrant casque + 1 à plusieurs
+épisodes.
+Contenu : Offres promotionnelles pour les acheteurs de
+casques VR partenaires, telles que des réductions ou des essais
+gratuits de notre application.
+Périodicité : Partenariats continuels pour accompagner les
+lancements de nouveaux casques ou de nouveaux épisodes.
+
+3. Programme de parrainage :
+Pertinence : Inciter les utilisateurs satisfaits à recommander
+notre application à leur entourage, en élargissant notre cible
+principale.
+Contenu : Offrir des récompenses (réductions, contenus
+exclusifs, etc.) aux utilisateurs qui parrainent de nouveaux
+membres.
+Périodicité : Programme de parrainage permanent pour
+encourager le bouche à-oreille et attirer de nouveaux utilisateurs.
+4. Publicité en ligne :
+Pertinence : Pouvoir apparaitre rapidement sur des mots clés
+concernant le voyage virtuel / les expériences immersives.
+Contenu : Annonces mettant en avant les expériences VR
+immersives, les informations culturelles et historiques, les quiz et
+les lots à gagner, ainsi que la compatibilité avec divers casques
+VR.
+Périodicité : A la sortie de chaque épisode (environ une fois par
+mois). Et a l'approche d'évènement tels que Noël, les périodes de
+fêtes, les salons informatiques etc...
+
+07
+
+Mois
+
+Actions/leviers
+
+Avril
+
+Lancement réseaux sociaux
+
+Coûts (€)
+
+Publicité Facebook &
+Instagram
+
+1500
+
+Mai
+
+Gestion RS + maintenance
+campagne en ligne google
+
+1000
+
+Juin
+
+Concours Instagram
+
+1000
+
+Partenariat Centre Vr local
+
+2000 (ou 0 en fonction du
+partenariat)
+
+Newsletter
+
+300
+
+Ads Youtube
+
+1500
+
+Gestion RS + maintenance
+campagne en ligne google
+
+1000
+
+Août
+
+Gestion RS + maintenance
+campagne en ligne google
+
+1000
+
+Septembre
+
+Evénement en ligne
+
+1200
+
+Gestion RS + maintenance
+campagne en ligne google
+
+1000
+
+Octobre
+
+Gestion RS + maintenance
+campagne en ligne google
+
+1000
+
+Novembre
+
+Gestion RS + maintenance
+campagne en ligne google
+
+1000
+
+Concours de fin d'année
+
+600
+
+Gestion RS + maintenance
+campagne en ligne google
+
+1000
+
+Juillet
+
+Decembre
+
+Total : 13100€
+
+07
+
+Plan de communication
+
+.
+
+Campagne à destination de la cible Secondaire
+Rappel de la cible secondaire : personnes ayant un penchant pour la réalité virtuelle et
+souhaitant renouveler leur expérience, soit en achetant un casque, soit via un service
+externe
+
+Persona
+
+Description de la campagne :
+Promouvoir notre application de voyages virtuels en réalité virtuelle
+auprès des personnes intéressées par la VR mais ne possédant pas
+encore leur propre casque, en mettant l'accent sur la facilité d'accès
+et les expériences immersives offertes.
+
+Objectifs :
+1. Élargir la portée de notre projet en touchant un public plus large,
+intéressé par la réalité virtuelle mais n'ayant pas encore investi dans
+un casque VR.
+2. Mettre en avant la compatibilité de notre application avec différents
+types de casques et de services externes (centres VR, etc.), facilitant
+l'accès à l'expérience.
+3. Informer sur les différentes options pour profiter de notre application
+(achat de casque, utilisation de services externes), en fournissant des
+conseils et des recommandations.
+4. Encourager ces personnes à s'engager avec notre application en
+proposant un premier épisode gratuit et en mettant en avant les quizz
+et les lots à gagner.
+5. Inciter les utilisateurs satisfaits à partager leur expérience avec leur
+entourage et sur les plateformes en ligne.
+
+07
+
+Plan de communication
+
+.
+
+Campagne à destination de la cible secondaire
+KPIs :
+1. Nombre d'impressions, de likes et de partages des contenus
+promotionnels sur les réseaux sociaux et les plateformes de streaming.
+2. Taux de clics sur les publicités en ligne et taux de conversion en
+téléchargements de l'application.
+3. Nombre de participants aux événements promotionnels organisés
+dans les centres VR.
+4. Taux d'engagement sur les réseaux (nombre de vues, d'abonnés, de
+commentaires, etc.).
+5. Nombre de parrainages réussis et taux de conversion des personnes
+parrainées en utilisateurs actifs de l'application
+
+Leviers de communication :
+1. Réseaux sociaux :
+Les mêmes que pour la cible principale, avec une attention
+particulière sur les conseils et recommandations pour l'achat
+de casques VR et l'accès aux centres VR.
+2. Organisation d'événements VR :
+Pertinence : Attirer l'attention des personnes intéressées par la
+réalité virtuelle en organisant des événements, des
+démonstrations et des ateliers dans des centres VR ou lors de
+salons dédiés.
+Contenu : Présentation de l'application, démonstrations des
+expériences VR, et discussions autour des aspects culturels et
+historiques des destinations.
+Périodicité : Événements ponctuels pour capter l'intérêt des
+participants et générer du bouche-à-oreille.
+3. Collaborations avec des centres VR et des salles d'arcade :
+Pertinence : S'associer avec des établissements locaux offrant
+des expériences en réalité virtuelle pour toucher directement
+votre cible secondaire.
+Contenu : Proposer des offres spéciales, des réductions ou des
+événements en partenariat avec ces établissements pour
+encourager les clients à découvrir votre application.
+Périodicité : Collaborations continues pour maintenir une
+présence constante auprès de votre cible secondaire.
+
+3. Programme de parrainage :
+Pertinence : Inciter les utilisateurs satisfaits à recommander
+notre application à leur entourage, en élargissant notre cible
+principale.
+Contenu : Offrir des récompenses (réductions, contenus
+exclusifs, etc.) aux utilisateurs qui parrainent de nouveaux
+membres.
+Périodicité : Programme de parrainage permanent pour
+encourager le bouche à-oreille et attirer de nouveaux utilisateurs.
+4. Publicité en ligne :
+Pertinence : Pouvoir apparaitre rapidement sur des mots clés
+concernant le voyage virtuel / les expériences immersives.
+Contenu : Annonces mettant en avant les expériences VR
+immersives, les informations culturelles et historiques, les quiz et
+les lots à gagner, ainsi que la compatibilité avec divers casques
+VR.
+Périodicité : A la sortie de chaque épisode (environ une fois par
+mois). Et a l'approche d'évènement tels que Noël, les périodes de
+fêtes, les salons informatiques etc...
+
+07
+
+Mois
+
+Actions/leviers
+
+Avril
+
+Lancement réseaux sociaux
+
+Coûts (€)
+
+Publicité Facebook &
+Instagram
+
+1500
+
+Mai
+
+Gestion RS + maintenance
+campagne en ligne google
+
+1000
+
+Juin
+
+Concours Instagram
+
+1000
+
+Partenariat Centre Vr local
+
+1500 (ou 0 en fonction du
+partenariat)
+
+Newsletter
+
+300
+
+Ads Youtube
+
+1500
+
+Gestion RS + maintenance
+campagne en ligne google
+
+1000
+
+Août
+
+Gestion RS + maintenance
+campagne en ligne google
+
+1000
+
+Septembre
+
+Partenariat Centre Vr local
+
+1500
+
+Gestion RS + maintenance
+campagne en ligne google
+
+1000
+
+Octobre
+
+Gestion RS + maintenance
+campagne en ligne google
+
+1000
+
+Novembre
+
+Gestion RS + maintenance
+campagne en ligne google
+
+1000
+
+Partenariat Centre Vr local
+
+1500
+
+Gestion RS + maintenance
+campagne en ligne google
+
+1000
+
+Juillet
+
+Decembre
+
+Total : 14300 €
+
+Equipe
+&
+Moyens
+
+07
+
+Equipe & Moyens
+
+Année 1
+
+Année 2
+
+Année 3
+
+Developpeur
+VR
+
+20 040,00 €
+
+23 040,00 €
+
+26 040,00 €
+
+Developpeur
+VR junior
+
+16 040,00 €
+
+20 040,00 €
+
+22 040,00 €
+
+Chef de projet
+
+20 040,00 €
+
+23 040,00 €
+
+26 040,00 €
+
+Maquetteur
+
+8 000,00 €
+
+23 040,00
+
+26 040,00
+
+Commercial
+
+20 040,00 €
+
+23 040,00
+
+26 040,00
+
+Cadreur
+
+20 040,00 €
+
+23 040,00
+
+26 040,00
+
+6 Ordinateurs : 6 000 €
+Écrans de qualité (6) : 1 500 €
+Un écran par poste de travail (250 € par écran).
+3 Casques VR Oculus Quest 2 : 1 050 €
+Caméra et équipement de tournage pour le cadreur : 2 000 €
+Caméra 360°, trépied, microphones, éclairage, etc
+
+12 050 €
+
+Aspects
+Juridiques
+
+08
+
+Aspects Juridiques
+
+Statut de l'entreprise
+
+SAS (IS)
+Réglementation de la VR.
+Il est important de se tenir informé des réglementations spécifiques à la réalité
+virtuelle, notamment en matière de santé, de sécurité et de protection des données
+personnelles
+
+Données Personnelles
+Comme nous sommes en Europe, le RGPD est de rigueur, nous nous devrons donc
+d'assurer une collecte, un traitement et un stockage des données personnelles conforme à la
+législation en vigueur.
+
+Analyse des
+risques
+
+09
+
+Analyse des Risques
+Revoir les 5 forces de PORTER
+En plus des 5 forces de PORTER, j'ai identifié d'autres facteurs qui pourraient
+potentiellement causer des risques pour World VR :
+Risque Opérationnel : Erreurs au seins du processus de création, mauvaise
+cohésion d'équipe, mauvaise planification etc... Ces risques peuvent poser
+problème lors du lancement du projet voir même, au lancement de chaque épisode,
+pour cela, nous devons rester efficace et assurer le bon fonctionnement de
+l'entreprise à travers diverses methodes de managements et de gestion de
+projet agile.
+Risque Financier : World VR pourrait faire face à des événements entraînant une
+perte de bénéfice, tels qu'une évolution défaforable du marché, mais c'est
+impossible à prévoir. Mais pour attenuer ce risque, nous nous devons d'avoir une
+stratégie nous permettant de rebondir rapidement. (notamment grâce à la
+communication)
+Risques Techniques : Comme évoqué dans le premier point, nous pourrons faire
+face à des problèmes techniques au sein de l'équipe, retardant ainsi des sorties
+d'épisodes. Pour cela nous souhaitons nous équiper de matériel fiable et de
+qualité pour maintenir ce risque le plus bas possible.
+
+Plan
+Financier
+
+10
+
+Plan Financier
+Les charges principales
+
+Trésorerie
+
+Résultat avant impot
+
+Perspective
+Digital
+Responsable
+
+11
+
+Perspective Digital Responsable
+
+Mon projet à pour ambition de révolutionner le tourisme et offrir la possibilité de
+découvrir de nouvelles destinations et en apprendre dessus depuis son salon ou
+sa chambre.
+En proposant donc des expériences immersives ET interactives, nous souhaitons
+éveiller la curiosité et l'envie d'apprendre des utilisateurs afin qu'ils aient un vrai apport
+culturel en sortant de l'expérience.
+Et à long termes, nous souhaitons devenir une référence dans le tourisme virtuel
+avec un large catalogue de voyage tous plus variés les uns que les autres.
+
+Le tout pour un tourisme plus durable.
+Sur le plan environnemental, World VR vise à réduire l'empreinte carbonne liée au
+milieu du tourisme. Car visiter une ville virtuellement inclut forcément le fait de ne pas
+prendre l'avion, et permet ainsi d'éviter une surproduction de CO2.
+Concernant le comportement humain, notre projet vise à sensibiliser les usagers
+aux enjeux culturels et environnementaux des lieux qu'ils visitent et à les inciter à
+adopter des pratiques de déplacement respectueuses et responsables. Ainsi, nous
+espérons contribuer à l'éducation aux enjeux mondiaux et engagés pour la
+préservation de la planète.
+
+Planning
+Prévisionnel
+
+12
+
+Planning prévisionnel
+
+Janvier
+1er au 15 : Recherche et
+développement (R&D) :
+Élaboration des concepts.
+
+Février
+1er au 10 : Recrutement des
+employés : Développeurs VR,
+chef de projet, maquettiste,
+commercial et cadreur.
+
+16 au 31 : Développement des
+prototypes et tests des
+expériences VR.
+
+Mars
+
+11 au 28 : Mise en place du
+studio : Achat du matériel et
+installation des équipements.
+
+Avril
+
+prototypes et tests internes.
+
+11 au 30 : Lancement des
+campagnes de communication et
+de marketing.
+
+16 au 31 : Développement du
+plan marketing : Identification
+des cibles, choix des canaux de
+communication et élaboration
+des campagnes publicitaires.
+
+1er au 15 : Lancement officiel
+des expériences VR et mise en
+vente.
+
+1er au 15 : Finalisation des
+
+Mai
+1er au 15 : Développement et
+finalisation des expériences VR
+en fonction des retours des tests
+et des ajustements nécessaires.
+16 au 31 : Production de contenu
+vidéo et promotionnel par le
+cadreur pour les campagnes
+marketing.
+
+Juin
+16 au 31 : Suivi des ventes et
+ajustement des campagnes de
+marketing en fonction des
+résultats.
+
+12
+
+Juillet
+
+1er au 15 : Analyse des retours
+des clients et intégration des
+améliorations dans les futures
+mises à jour des expériences VR.
+
+Août
+1er au 15 : Développement de
+mises à jour et d'améliorations
+pour les expériences VR
+existantes.
+
+16 au 31 : Planification des
+nouveaux projets et stratégie
+pour l'année suivante.
+
+Septembre
+
+Octobre
+
+1er au 15 : Lancement des mises
+
+1er au 15 : Brainstorming et
+
+à jour et améliorations des
+expériences VR.
+
+planification de nouveaux projets
+VR.
+
+16 au 30 : Évaluation des
+performances des campagnes
+marketing et ajustement des
+stratégies si nécessaire.
+
+Novembre
+1er au 15 : Tests internes des
+prototypes et ajustements en
+fonction des retours.
+16 au 30 : Préparation des
+campagnes marketing pour la
+saison des fêtes.
+
+Décembre
+1er au 15 : Lancement des
+campagnes marketing pour la
+saison des fêtes et promotion de
+World VR.
+16 au 31 : Bilan de l'année,
+analyse des résultats et
+planification des objectifs pour
+l'année suivante.
+
+Annexes
+
+Annexes
+https://www.lavoixdunord.fr/1131304/article/2022-01-24/en-2022-la-realite-virtuellepoursuit-sa-percee-dans-nos-salons-avec-des-casques
+https://www.distributique.com/actualites/lire-78-5-de-croissance-pour-le-marche-dela-realite-virtuelle-et-augmentee-en-2020-29565.html
+https://fr.statista.com/themes/3357/la-realite-virtuelle/
+https://www.mordorintelligence.com/fr/industry-reports/virtual-reality-market
+https://madame.lefigaro.fr/evasion/realite-virtuelle-va-t-on-continuer-de-bougerpour-voyager-tourisme-090818-150040
+https://www.realite-virtuelle.com/chiffres-vr2021/#La_croissance_de_la_technologie_VR
+https://web.archive.org/web/20200829225408/https://greenlightinsights.com/consu
+mer-interest-in-virtual-reality-goes-far-beyond-gaming/
+https://www.realite-virtuelle.com/tourisme-vr-pourrait-decoller-covid-19/
+https://pro.regiondo.com/fr/la-realite-virtuelle-dans-le-secteur-des-voyagestendances-et-perspectives/
+https://techjury.net/blog/virtual-reality-statistics/
+https://www.realite-virtuelle.com/nature-rv-ra-0208/
+https://www.realite-virtuelle.com/politique-vr2004/#Politique_VR_comment_les_politiciens_utilisent_la_realite_virtuelle
+https://www.csa.fr/content/download/221354/592328/file/CSA_R%C3%A9alit%C3%A9
+%20virtuelle.pdf
+https://www.etourisme.info/metavers-la-solution-pour-un-tourisme-durable/
+
+Pestel
+
+Porter
+La menace des nouveaux entrants : 4/5
+Possibilité d’arrivée de nouveaux concurrents dans un domaine semblable (exploration de
+lieux plus ou moins grands)
+Une autre menace concernant l’apparition de nouveaux entrants est l’expérience proposée,
+en VR, l’expérience utilisateur est un facteur clé de succès, il faut donc proposer une vraie
+expérience complète.
+
+Le pouvoir de négociation des clients : 5/5
+Les clients ont un pouvoir de négociation assez important, car la qualité de l’expérience est
+un facteur clé à prendre en compte durant la réalisation technique du projet. Il faut donc
+prendre en compte les retours clients, les plaintes, les points à accentuer etc…
+C’est un phénomène bien visible sur les plateformes de vente de bien dématérialisé, les avis
+servent immédiatement à savoir si le contenu proposé est de qualité ou non.
+
+Une bonne notation peut grandement influencer l’utilisateur sur son choix. De plus, les jeux
+bien notés ont tendances à recevoir plus d’avis que les autres, renforçant ainsi la crédibilité
+du projet.
+Il faut donc satisfaire l’utilisateur dans son expérience
+La menace des produits de substitution 3
+Important car le principe de visiter une ville virtuellement n’est pas nouveau, google
+map/earth le propose déjà. Il faut donc apporter une vraie valeur ajoutée qui se trouve dans
+le cote culture, savoir locale, coutumes etc… En plus des récompenses en fin d’épisode.
+
+Le pouvoir de négociation des fournisseurs 1
+Très faible car il n’y a pas vraiment de fournisseur.
+Le degré de rivalité avec les concurrents 2
+Assez faible car les expériences proposées diffèrent beaucoup dans le fond, même si la
+forme peut sembler similaire sur certains points.
+Le côté apport culturel peut créer une vraie différence par rapport au concurrents directs.
+
+Persona Cible Principale
+Thibault FONTAINE
+25 ans
+37 000€ / An
+Habite dans la région
+Parisienne
+
+Sa Biographie :
+Nouveau CDI en tant que conseiller patrimonial à la caisse
+d’épargne.
+Propriétaire d’un casque VR Meta Quest 2
+Il aime les nouvelles technologies et les jeux vidéo. Ces jeux
+préférés sont les jeux d’aventures.
+Il aime beaucoup découvrir ce qui lui est étranger.
+Il apprécie rentrer du travail et se détendre devant des
+documentaires ou des jeux vidéos.
+Sa Problématique :
+En ces temps de pandémie, voyager est devenu plus compliqué à
+cause des restrictions. Thibault cherche donc un nouveau moyen
+de voyager simplement tout en ayant une vraie expérience de
+voyage classique, visite du patrimoine local, des coutumes etc...
+
+Persona Cible Principale
+Clément PINOT
+28 ans
+25 000€ / An
+Habite en à Belleneuve à côté de
+Dijon
+Sa Biographie :
+En CDD en tant que Développeur back-end à Dijon.
+Ne possède pas de casque mais a déjà fait plusieurs expériences dans
+des musées / expositions. Il souhaite renouveler cela en possédant son
+propre casque.
+Il aime beaucoup la randonnée et les voyages, il est aussi intéressé par
+les nouvelles technologies car il aime voir la nouveauté et les
+innovations.
+Il aime se projeter dans des lieux, comme quand il cherche des
+destinations de randonnées par exemple...
+C'est un joueur de jeu PC traditionnel, il aime les jeux d'aventures
+comme Tomb Raider ou Uncharted, mais aussi les jeux indépendants
+plus philosophiques comme Journey
+Sa Problématique :
+Lui aussi est restreint par la pandémie et les restrictions de voyage,
+mais aussi par le coût d'un voyage, un billet d'avions, une réservation
+d'hôtel sur plusieurs jours, les dépenses sur places... Clément n'a pas
+un budget qui lui permet de faire toutes les folies qu'il souhaiterait
+accomplir. Il cherche donc quelque chose d'autres pour s'occuper,
+comme un casque de réalité virtuelle, car, ayant déjà essayé,
+l’expérience lui à beaucoup plu.
+
+Étude qualitative : Entrevue avec un joueur de VR
+Casque utilisé : Meta Quest 2
+A quelle fréquence utilisez-vous votre casque de réalité virtuelle :
+"J’utilise mon casque (oculus quest 2) environ 1 à 3 fois par semaine."
+
+Quelles expériences vont ont le plus marqués ?
+"L’expérience qui m’a le plus marqué, aussi bizarre que cela puisse paraitre, était la
+première, ce n’était même pas un jeu c’était VRChat, j’ai aimé la découverte de la VR et du
+potentiel qu’il y a à pouvoir visiter un monde virtuel, j’y ai trouvé une certaine fascination.
+Après, je me suis mis à tester toutes les possibilités, et ensuite je me suis sûr de nouveaux
+jeux plus connus et plus utilisés comme : HL Alyx, boneworks, beat saber etc… Les
+classiques. "
+
+Qu’est-ce qui vous plait dans une bonne expérience en réalité virtuelle ?
+"Ce que j’aime en VR, c’est oublier d’être en VR, donc j’aime les chargements courts, et j’aime
+ne pas me sentir bridé par le jeu, il faut donc que l’expérience soit optimisée pour le support.
+Il faut également que ça soit intéressant, je n’ai pas envie de faire de la VR juste pour en faire,
+j’aime être plongé dans une expérience qui me fait oublier que je suis là, que cela m’apporte
+des possibilités que je n’ai pas forcément dans la vie réelle."
+Aimez-vous les visites de lieux connus / insolites
+"Oui, notamment sur VR Chat, le jeu propose beaucoup de lieux insolites et incroyablement
+beau et apaisant. J’aime beaucoup la possibilité de visiter des lieux (imaginaire ou non) que je
+ne peux pas voir de mes propres yeux. "
+
+Vous préférez vous déplacer librement ou sur un chemin établit ? (dans le cadre d’une
+visite de ville)
+"Je préférerais logiquement me déplacer librement, mais les limitations des machines
+actuelles ne permettant pas ce genre de possibilité, tout en gardant un contenu qualitatif, et
+si l’objectif est de faire une visite je préfère aller directement à l’essentiel.
+Surtout qu’une ville c’est grand, donc si je me retrouve perdu au bout de 5 minutes, je risque
+d’être rapidement agacé. "
+Quels types de récompenses appréciez-vous ? (sans connaître la possibilité de gagner
+un voyage à la fin)
+"La possibilité de revenir sur des lieux précédents et découvrir des choses que je n’ai pas vu
+la première fois."
+Le concept vous intéresse-t-il ?
+"Vu mon passif avec la VR, ce genre de projet m’intéresse fortement, le seul frein à mon
+achat pourrait être le prix. Des épisodes, mais les récompenses sont assez tentantes."
+
+Swot
+
+Forces
+Utilisation interactive
+Technologie centrée sur l’utilisateur
+Développement exponentiel de la
+VR.
+Prix de + en + accessible
+Pouvoir récompenser l'utilisateur
+
+Opportunités
+Oculus devient Meta pour
+promouvoir leur vision du futur de
+la VR
+Peu de concurrents actuellement
+Les nouvelles générations aiment
+les technologies innovantes
+Constante amélioration
+technologique => diminution de ses
+limites (meilleures rapidité,
+autonomie, mémoire, résolution
+d’écran, plus de wifi)
+
+Faiblesses
+
+Scepticisme pour certains
+Coût de développement initial
+onéreux
+
+Menaces
+
+Apparition de produits de
+substitution moins chère
+Accessibilité pour les personnes
+handicapés
+
+Charte Graphique
+
+Étude quantitative
+
+Tableau des concurrents
+
+BPF A voir dans le .zip
+
+BUSINESS
+PLAN
+DC Start | World VR | ROBERT Théo DC5B
+
+

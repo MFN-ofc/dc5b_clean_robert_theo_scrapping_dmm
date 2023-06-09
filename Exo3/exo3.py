@@ -36,7 +36,7 @@ for i in range(1, 34):
         if  praticien.find('h2', {'class': 'ignore-css'}) is not None:
             name = praticien.find('h2', {'class': 'ignore-css'}).text.strip()
         else:
-            div_nom=soup.find('div', {'class': 'nom_pictos centre-sante'})
+            div_nom=praticien.find('div', {'class': 'nom_pictos centre-sante'})
             name = div_nom.find('h2').text.strip()
         tel_div = praticien.find('div', {'class': 'tel'})
         if tel_div is not None:
