@@ -738,7 +738,7 @@ ID;Nom;Année de sortie;Classification;Durée (min);Note;Nombre de votant;Revenu
 736;Cinéma Paradiso;1988;Tous publics;155;8,5;267 863;$11.99M;Drama; Romance;
 737;Les temps modernes;1936;Tous publics;87;8,5;247 883;$0.16M;Comedy; Drama; Romance
 738;Les lumières de la ville;1931;Tous publics;87;8,5;188 279;$0.02M;Comedy; Drama; Romance
-739;96;II) (2018;Tous publics;158;8,5;;;Drama; Romance;
+739;96;2018;Tous publics;158;8,5;;;Drama; Romance;
 740;Your Name.;2016;Tous publics;106;8,4;285 185;$5.02M;Animation; Drama; Fantasy
 741;Dil Bechara;2020;;101;8,4;;;Comedy; Drama; Romance
 742;Will Hunting;1997;Tous publics;126;8,3;1 001 167;$138.43M;Drama; Romance;
@@ -829,7 +829,7 @@ ID;Nom;Année de sortie;Classification;Durée (min);Note;Nombre de votant;Revenu
 827;Everything Everywhere All at Once;2022;Tous publics;139;7,9;442 867;$72.86M;Action; Adventure; Comedy
 828;Avatar;2009;Tous publics;162;7,9;1 340 381;$760.51M;Action; Adventure; Fantasy
 829;Iron Man;2008;Tous publics;126;7,9;1 080 319;$318.41M;Action; Adventure; Sci-Fi
-830;Premier contact;II) (2016;Tous publics;116;7,9;717 109;$100.55M;Drama; Mystery; Sci-Fi
+830;Premier contact;2016;Tous publics;116;7,9;717 109;$100.55M;Drama; Mystery; Sci-Fi
 831;Dangal;2016;Tous publics;161;8,3;196 875;$12.39M;Action; Biography; Drama
 832;Warrior;2011;Tous publics;140;8,2;481 185;$13.66M;Action; Drama; Sport
 833;Les enfants du ciel;1997;Tous publics;89;8,2;76 569;$0.93M;Drama; Family; Sport
@@ -855,7 +855,7 @@ ID;Nom;Année de sortie;Classification;Durée (min);Note;Nombre de votant;Revenu
 853;Air;2023;R;111;7,6;;;Drama; Sport;
 854;Le stratège;2011;Tous publics;133;7,6;438 279;$75.61M;Biography; Drama; Sport
 855;The Blind Side;2009;Tous publics;129;7,6;343 553;$255.96M;Biography; Drama; Sport
-856;Creed: L'héritage de Rocky Balboa;II) (2015;Tous publics;133;7,6;295 913;$109.77M;Action; Drama; Sport
+856;Creed: L'héritage de Rocky Balboa;2015;Tous publics;133;7,6;295 913;$109.77M;Action; Drama; Sport
 857;Hurricane Carter;1999;Tous publics;146;7,6;99 434;$50.67M;Biography; Drama; Sport
 858;Moi, Tonya;2017;Tous publics;119;7,5;226 695;$30.01M;Biography; Comedy; Drama
 859;Jusqu'au bout du rêve;1989;Tous publics;107;7,5;122 661;$64.43M;Drama; Family; Fantasy
@@ -1006,7 +1006,7 @@ ID;Nom;Année de sortie;Classification;Durée (min);Note;Nombre de votant;Revenu
 1004;Les 7 mercenaires;1960;Tous publics;128;7,7;98 083;$4.91M;Action; Adventure; Drama
 1005;Le shérif est en prison;1974;Tous publics;93;7,7;144 351;$119.50M;Comedy; Western;
 1006;3h10 pour Yuma;2007;18;122;7,7;319 767;$53.61M;Action; Crime; Drama
-1007;Comancheria;II) (2016;Tous publics avec avertissement;102;7,6;238 499;$26.86M;Crime; Drama; Thriller
+1007;Comancheria;2016;Tous publics avec avertissement;102;7,6;238 499;$26.86M;Crime; Drama; Thriller
 1008;True Grit;2010;Tous publics;110;7,6;346 462;$171.24M;Drama; Western;
 1009;Jeremiah Johnson;1972;Tous publics;108;7,6;33 041;$47.74M;Adventure; Drama; Western
 1010;Géant;1956;Tous publics;201;7,6;;;Drama; Western;
